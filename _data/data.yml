@@ -171,7 +171,7 @@ experiences:
 
     - role: Project Manager
       time: 2015
-      company: MnSoft(http://global.hyundai-mnsoft.com/, Seoul
+      company: MnSoft, Seoul
       details: |       
         Designed and created testing procedures for GPS unit to be released in vehicles globally
         
@@ -191,6 +191,12 @@ experiences:
          - Created forms and documents compliant with Australian Skills Quality Authority (ASQA)
            standards and prepared company for first audit to become an RTO
          - Developed and applied policies/procedures, created and managed document control system
+
+volunteer-roles:
+    - role: Conference Volunteer (provided catering for over 100 camp attendees)
+      time: 2017
+      company: <a href="https://letsjusthackshit.org/">PlatypusCon</a>, Sydney
+      details: |
 
 projects:
     title: Volunteer
