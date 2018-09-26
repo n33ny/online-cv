@@ -43,9 +43,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      I am a versatile, effective, self-motivated and industrious individual with over five years of
-      experience in successful Events/Project Management employment. I enjoy exploring new ideas,
-      implementing new initiatives and then leading a project to a successful and sustained outcome. I am
+      I am a versatile, effective, self-motivated and industrious individual with over five years of experience in successful Events/Project Management employment. I enjoy exploring new ideas, implementing new initiatives and then leading a project to a successful and sustained outcome. I am
       a proactive and flexible team player with great attention to detail and strong interpersonal skills. I
       actively identify ways in which to develop myself though challenges and formal training and am
       looking to extend my leadership and management skills.
@@ -65,22 +63,44 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Project Manager and Executive Assistant
+      time: 2016 - Present
+      company: The University of New South Wales, Sydney
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+         Managed two major projects as well as the role of Executive Assistant to a Professor
 
-          - Bullet point
-          - Bullet point 
+         [SECedu](https://sec.edu.au) partnership between UNSW and [CBA](https://www.commbank.com.au/) within the School of Computer Science and Engineering
+         
+          - Coordinated the delivery of 8 security subjects a year including staffing, setup, timetabling,
+            exams and administration
+          - Worked closely with students and external stakeholders in running events such as ACCESS for
+            Women  , Prime Minister and Cabinet (PM&C) Women in Cyber Mentoring Event, SecSoc
+            workshops and Capture the Flag (CTF) competitions
+          - Hosted international security experts who delivered presentations and workshops for students
+            and external stakeholders
+          - Managed the recruitment of four adjunct lecturers, a senior lecturer and over twenty student
+            assistants; oversaw duties, delegated to projects and maintained a close working relationship
+          - Managed budget of $1.5m spread over five years; purchases, staffing, security lab renovations
+            and reporting for partnership
+          - Worked closely with staff at UNSW and CBA to ensure delivery of partnership milestones
+
+          First Year Student Experience within the Office of the Deputy Vice-Chancellor (Academic)
+          
+          - Production Manager for documentary/mini-series ‘ My First Year ’  including scheduling regular
+            interviews and filming of seven students throughout 2017
+          - Coordinated documentary red carpet premiere at UNSW including design, invitations, venue,
+            catering, staffing and chaperoning VIP guests such as the Vice Chancellor and Deputy Vice
+            Chancellor (Academic)
+          - Managed a budget of $450,000 in 2017 and $800,000 in 2018 including major purchases,
+            reporting and staffing
+
+          Executive Assistant to Professor Richard Buckland
+          
+          - Conducted monthly credit card reconciliation and sorted over 200 email enquiries a week
+          - Managed busy schedule juggling teaching/research commitments and up to 20 meetings a week
+          - Arranged domestic and international travel to conferences and for speaking invitations multiple
+            times a semester
+          - Supported the Professor in supervising Masters, Honours and PhD students
 
     - role: Senior Software Engineer
       time: 2014 - 2015
