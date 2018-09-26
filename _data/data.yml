@@ -102,9 +102,9 @@ experiences:
             times a semester
           - Supported the Professor in supervising Masters, Honours and PhD students
           
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Education Manager
+      time: 2016
+      company: [Training Agents](https://www.trainingagents.com.au/), Sydney
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -115,7 +115,7 @@ experiences:
           - Bullet point
           - Bullet point
           
-    - role: Education Manager
+    - role: 
       time: 2016
       company: [Training Agents](https://www.trainingagents.com.au/), Sydney
       details: |
