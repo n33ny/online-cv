@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: nina.e.rodgers@gmail.com
-    phone: 0422782704
+    phone: 0422 782 704
     website: blog.webjeda.com #do not add http://
     linkedin: nina
     github: n33ny
@@ -44,15 +44,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am a versatile, effective, self-motivated and industrious individual with over five years of
+experience in successful Events/Project Management employment. I enjoy exploring new ideas,
+implementing new initiatives and then leading a project to a successful and sustained outcome. I am
+a proactive and flexible team player with great attention to detail and strong interpersonal skills. I
+actively identify ways in which to develop myself though challenges and formal training and am
+looking to extend my leadership and management skills.
 
 education:
     - degree: MSc in Computer Science
@@ -134,7 +133,7 @@ projects:
 
     assignments:
       - title: Velocity
-        link: "sec.edu.au"
+        link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
