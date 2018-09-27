@@ -6,7 +6,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-hands-helping fa-stack-1x fa-inverse"></i>
     </span>
-    Volunteer-Roles
+    Volunteer Roles
   </h2>
 
   {% for volunteer-roles in volunteer-roles %}
@@ -16,7 +16,7 @@
 
       <div class="upper-row">
         <h3 class="job-title">{{ volunteer-roles.role }}</h3>
-        <div class="time">{{ experience.time }}</div>
+        <div class="time">{{ volunteer-roles.time }}</div>
       </div><!--//upper-row-->
 
       <div class="company">{{ volunteer-roles.company }}</div>
