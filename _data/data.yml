@@ -52,15 +52,6 @@ education:
     - degree: BE (Mechanical) / BA (Japanese)
       university: University of Sydney
       time: 2006 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point 1
-          - Bullet point 
 
 experiences:
     - role: Project Manager and Executive Assistant
@@ -74,7 +65,7 @@ experiences:
          - Coordinated the delivery of 8 security subjects a year including staffing, setup, timetabling,
            exams and administration
          - Worked closely with students and external stakeholders in running events such as ACCESS for
-           Women  , Prime Minister and Cabinet (PM&C) Women in Cyber Mentoring Event, SecSoc
+           Women, Prime Minister and Cabinet (PM&C) Women in Cyber Mentoring Event, SecSoc
            workshops and Capture the Flag (CTF) competitions
          - Hosted international security experts who delivered presentations and workshops for students
            and external stakeholders
@@ -86,7 +77,7 @@ experiences:
 
         First Year Student Experience within the Office of the Deputy Vice-Chancellor (Academic)
           
-         - Production Manager for documentary/mini-series ‘ My First Year ’  including scheduling regular
+         - Production Manager for documentary/mini-series ‘My First Year’  including scheduling regular
            interviews and filming of seven students throughout 2017
          - Coordinated documentary red carpet premiere at UNSW including design, invitations, venue,
            catering, staffing and chaperoning VIP guests such as the Vice Chancellor and Deputy Vice
@@ -105,8 +96,7 @@ experiences:
     - role: Education Manager
       time: 2016
       company: <a href="https://www.trainingagents.com.au">Training Agents</a>, Sydney
-
-      details: |          
+      details: |
          - Improved systems and procedures to increase efficiency and accuracy of administrative tasks
            e.g. taking student enrolments and assessment submissions online and automating mail outs
            and tasks via CRM set up
@@ -134,7 +124,7 @@ experiences:
          - Coordinated a large press launch event of the ‘All New Elantra’ in Tasmania
 
     - role: Fleet Manager/Events
-      time: 2012 - 2017
+      time: 2016
       company: Motorsport Safety and Rescue, Sydney
       details: |
          - Managed bookings and prepared vehicles to a high standard on behalf of several car
@@ -152,7 +142,7 @@ experiences:
     - role: Project Manager/Operations Administrator
       time: 2015
       company: Vocation (RTO), Brisbane
-      details: |  
+      details: |
          - Independently implemented new systems to manage hospitality traineeships for over 500
            students across QLD allowing the team to operate more efficiently. Documented and published
            this solution to be put into practice by teams across the country
@@ -172,7 +162,7 @@ experiences:
     - role: Project Manager
       time: 2015
       company: MnSoft, Seoul
-      details: |       
+      details: |
         Designed and created testing procedures for GPS unit to be released in vehicles globally
         
          - Tested devices in the field throughout Australia over three week period while reporting daily
@@ -181,10 +171,11 @@ experiences:
     - role: Office Manager
       time: 2013 - 2015
       company: Driven Training, Yatala
-      details: | 
+      details: |
         As Driven Training was a small company, this all-round, full responsibility role included office
         management, business development, accounts receivable, payroll and training material
         development
+
          - New CMS/LMS set up, training of staff and integration, data management and AVETMISS
            (government) reporting
          - Responsible for trainer preparation and mobilisation, travel and accommodation booking
@@ -196,55 +187,41 @@ volunteer-roles:
     - role: Conference Volunteer (provided catering for over 100 camp attendees)
       time: 2017
       company: <a href="https://letsjusthackshit.org/">PlatypusCon</a>, Sydney
-      details: |
 
-projects:
-    title: Volunteer
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    - role: Cub Scout Leader
+      time: 2014 - 2016
+      company: Robertson Scouts, Brisbane
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Pyjama Angel (helped a child in foster care with homework and reading)
+      time: 2015 - Present
+      company: <a href="https://thepyjamafoundation.com/">The Pyjama Foundation</a>, Brisbane and Sydney
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Gallery Renovator, Exhibition Assistant, Canvas Stretcher
+      time: 2012
+      company: Soldier’s Road Gallery Sydney and Artist Daniel O’Toole, Sydney
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - role: Veggie Run Coordinator
+      time: 2011 - 2012
+      company: Community Veg Box Runs, Sydney
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - role: Rally Official and Translator
+      time: 2009
+      company: Repco <a href="https://thepyjamafoundation.com/">Rally Australia</a>, Australian Round of the World Rally Championship
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - role: Gallery Supervisor, Events and Journal Proofreader
+      time: 2010 - 2012
+      company: <a href="https://jpf.org.au/">The Japan Foundation</a>, Sydney
 
-publications:
-    title: Extra Curricular
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    - role: Houseparent/Mentor
+      time: 2008
+      company: <a href="https://www.engineersaustralia.org.au/Event/honeywell-summer-school-2017">Honeywell Engineering Summer School</a>, Sydney
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    - role: Rally Headquarters Official (Translator and Administrator)
+      time: 2006 - 2008
+      company: <http://www.rally-hokkaido.com/en/">Rally Hokkaido</a>, Obihiro, Japan
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+
 
 skills:
     title: Skills &amp; Proficiency
