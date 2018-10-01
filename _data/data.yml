@@ -31,20 +31,42 @@ sidebar:
         level: Professional
         
     interests:
+      - item: Art making and appreciating
+        link: 
+
       - item: Gardening
         link:
 
-      - item: Art making and appreciating
+      - item: Outdoor adventures
         link:
 
-      - item: Cooking
+    skills-sidebar:
+      - item: Excellent people skills, proven ability to build good rapport with a wide 
+              range of individuals
+        link:
+
+      - item: Strong written and verbal communication skills
+        link:
+
+      - item: Outstanding independent worker with excellent time management, problem solving and 
+              multitasking ability
+        link:
+
+      - item: Good team work and team leadership skills honed through working in a large 
+              variety of workplaces from a young age and over many years
+        link:
+
+      - item: Organised, pragmatic and enthusiastic with a proactive approach to work and projects
+        link:
+
+      - item: Curious by nature, a natural problem solver and contributor of ideas
         link:
 
 career-profile:
     title: Summary
     summary: |
       I am a versatile, self-motivated and industrious individual with over five years of experience 
-      in successful Events/Project Management employment. I have a passion exploring new ideas, 
+      in Events/Project Management employment. I have a passion for exploring new ideas, 
       implementing new initiatives and leading projects to successful and sustained outcomes. I am a 
       proactive and flexible team player with great attention to detail and strong interpersonal 
       skills. I am currently looking for a role where I can further hone my leadership and management 
@@ -53,7 +75,7 @@ career-profile:
 education:
     - degree: BE (Mechanical) / BA (Japanese)
       university: University of Sydney
-      time: 2006 - 2011
+      time: 2006 - 2011 (deferred)
 
 experiences:
     - role: Project Manager and Executive Assistant
@@ -61,21 +83,20 @@ experiences:
       company: <a href="https://www.unsw.edu.au/">The University of New South Wales</a>, Sydney
       details: |
         Concurrently managed two major projects as well as the role of Executive Assistant to a busy
-        Professor who was also the Director of both projects. Independently designed and executed 
-        events such as camps, workshops seminars and a documentary premiere for students and internal 
-        and external stakeholders. Was trusted to work autonomously and make major decisions 
-        on the running of projects in an exacting and high stakes environment.
+        Professor. Independently designed and executed events such as camps, workshops seminars and 
+        a documentary premiere for students and internal and external stakeholders. Worked autonomously 
+        and made major decisions on the running of projects in an exacting and high stakes environment.
 
         [SECedu](https://sec.edu.au) partnership between UNSW and [CBA](https://www.commbank.com.au/) 
         within the School of Computer Science and Engineering
          
-         - Coordinated the delivery of 8 security subjects a year including staffing, setup, 
+         - Coordinated the delivery of eight security subjects a year including staffing, setup, 
            timetabling, exams and administration
-         - Managed the recruitment of four adjunct lecturers, a senior lecturer and over twenty student
+         - Managed the recruitment of four adjunct lecturers, a senior lecturer and over twenty students
            assistants; oversaw duties, delegated to projects and maintained a close working relationship
          - Managed budget of $1.5m spread over five years; purchases, staffing, security lab renovations
            and reporting for partnership
-         - Worked closely with staff at UNSW and CBA to ensure delivery of partnership milestones
+         - Worked closely with staff at UNSW and CBA to ensure delivery of partnership milestones.
 
         [First Year Student Experience](http://loveuni.unsw.edu.au/) within the Office of the 
         Deputy Vice-Chancellor (Academic)
@@ -83,16 +104,16 @@ experiences:
          - Production Manager for documentary/mini-series [‘My First Year’](http://loveuni.unsw.edu.au/my-first-year) including scheduling regular
            interviews and filming of seven students throughout 2017
          - Managed a budget of $450,000 in 2017 and $800,000 in 2018 including major purchases,
-           reporting and staffing
+           reporting and staffing.
 
         Executive Assistant to Professor Richard Buckland
           
-         - Managed all finances, sorted over 200 email enquiries a week and managed busy schedule juggling 
+         - Managed all finances, sorted over 200 email enquiries a week and managed busy schedule, juggling 
            teaching/research commitments and up to 20 meetings a week. 
-         - Arranged the Professor's domestic and international travel to conferences and for speaking invitations 
-           multiple times a semester and supported him in supervising Masters, Honours and PhD students
+         - Arranged domestic and international travel to conferences and speaking invitations 
+           multiple times a semester and supported him in supervising Masters, Honours and PhD students.
          
-    - role: Education Manager
+    - role: Education and Compliance Manager
       time: 2016
       company: <a href="https://www.trainingagents.com.au">Training Agents</a>, Sydney
       details: |
@@ -105,23 +126,21 @@ experiences:
            developed procedures
          - Researched and understood Real Estate Agent requirements in NSW, VIC and ACT and brought
            courses and accreditations in line with legislation
-         - Managed RTO compliance and data reporting
+         - Managed RTO compliance and data reporting.
 
     - role: Projects/Events (Contractor)
       time: 2012 - 2017
-      company: Hyundai Motor Company Australia, Sydney
+      company: <a href="https://www.hyundai.com.au/">Hyundai Motor Company Australia</a>, Sydney
       details: |
-         - Created extensive documentation for Hyundai i30, Veloster, Tucson and Santa Fe
+         - Authored extensive documentation for Hyundai i30, Veloster, Tucson and Santa Fe
            press release launches
          - Responsible for complex projects- e.g. collected, analysed and presented [MoTeC]
            (https://www.motec.com.au/home) Data to Queensland Police Service to advise them 
            of the pros and cons of different vehicles and tyres when choosing the type and 
-           specs for their next highway patrol fleet car [resulting in an order of
-           over 200 vehicles](https://www.carsguide.com.au/car-news/queensland-police-snaps-up-hyundai-sonata-57685)
-         - Coordinated an all round rally experience for a group of Korean Journalists at Rally Australia
-           2014; arranged credentials and chauffeured between spectator points, helicopter rides and
-           received great feedback resulting in positive media reviews and articles
-         - Coordinated a large press launch event of the ‘All New Elantra’ in Tasmania
+           specs for their [next highway patrol fleet car](https://www.carsguide.com.au/car-news/queensland-police-snaps-up-hyundai-sonata-57685)
+         - Coordinated an all-round rally experience for a group of Korean Journalists at Rally Australia
+           2014 including travel, catering and helicopter rides
+         - Coordinated a large press launch event of the ‘All New Elantra’ in Tasmania.
 
     - role: Fleet Manager/Events
       time: 2016
@@ -130,15 +149,13 @@ experiences:
         Managed bookings and prepared vehicles to a high standard on behalf of several car
         manufacturers (over a dozen different makes and a fleet of over 150 vehicles), successfully
         coordinating multiple clients and multiple suppliers in a high stakes, intensive environment with
-        tight deadlines
+        tight deadlines.
 
          - Liaised with clients and journalists within a high quality customer service environment and went
            above and beyond to ensure client satisfaction and to protect brand image
-         - Managed customer experiences and expectations during events- e.g. responsible for guest
-           transport solutions at a Mercedes Benz sponsored event
          - Worked independently on initiative driven tasks- e.g. planned the drive route and managed
            vehicle preparations and movements for the press launch of the ‘Bold New Honda Civic’ in
-           Albury and Jeep Grand Cherokee SRT in Sydney
+           Albury and Jeep Grand Cherokee SRT in Sydney.
           
     - role: Operations Administrator to Project Manager
       time: 2015
@@ -151,18 +168,18 @@ experiences:
            Statistical Standard (AVETMISS) data ensuring data integrity and correct funding payments
          - Implemented system to invite regional team and CEO to partake in online meetings,
            announcements and training from within QLD main office benefiting team cohesion and
-           functionality
+           functionality.
 
     - role: Project Manager
       time: 2015
       company: <a href="http://global.hyundai-mnsoft.com/">MnSoft</a>, Seoul
       details: |
-        Designed and created testing procedures for GPS unit to be released in vehicles globally
+        Designed and created testing procedures for GPS unit to be released in vehicles globally.
         
          - Tested devices in the field throughout Australia over three week period while reporting 
            daily
          - Wrote and compiled technical reports and presented findings to team at head office in 
-           Korea
+           Korea.
 
     - role: Administration to Office Manager
       time: 2013 - 2015
@@ -177,7 +194,7 @@ experiences:
          - Responsible for trainer preparation and mobilisation, travel and accommodation booking
          - Created forms and documents compliant with Australian Skills Quality Authority (ASQA)
            standards and prepared company for first audit to become an RTO
-         - Developed and applied policies/procedures, created and managed document control system
+         - Developed and applied policies/procedures, created and managed document control system.
 
 volunteer-roles:
     - role: Conference Volunteer (provided catering for over 100 camp attendees)
@@ -204,7 +221,7 @@ volunteer-roles:
       time: 2009
       company: Repco <a href="https://thepyjamafoundation.com/">Rally Australia</a>, Australian Round of the World Rally Championship
 
-    - role: Gallery Supervisor, Events and Journal Proofreader
+    - role: Gallery Supervisor, Events and Journal Proof-reader
       time: 2010 - 2012
       company: <a href="https://jpf.org.au/">The Japan Foundation</a>, Sydney
 
@@ -223,14 +240,14 @@ extracurricular:
     - role: Australian Mensa Member
       time: Current
       company: 7477
-    - role: NSW Working With Children clearance
+    - role: NSW Working with Children clearance
       time: Current
       company: WWC1041202V
     - role: Committee Member
       time: 2010 - 2012
       company: Stucco
       details: |
-        Lead the Problems and Administration Committee whilst residing at Stucco , a
+        Lead the Problems and Administration Committee whilst residing at [Stucco](http://www.stucco.org.au/), a
         housing cooperative run by students of the University of Sydney. Coordinated a
         re-writing of the By-Laws, moderated the e-list, supervised rent, organised
         events and helped build and run an art gallery
