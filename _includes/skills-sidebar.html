@@ -1,0 +1,22 @@
+{% assign skills-sidebar = site.data.data.sidebar.skills-sidebar %}
+{% if skills-sidebar %}
+<div class="skills-sidebar-container container-block">
+
+  <h2 class="container-block-title">
+    Skills
+  </h2>
+
+  <ul class="list-unstyled skills-sidebar-list interests-list">
+    {% for interest in skills-sidebar %}
+
+      {% if interest.link %}
+      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% else %}
+      <li>{{ interest.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//skills-sidebar-->
+{% endif %}
